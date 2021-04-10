@@ -1,0 +1,408 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 10:59:15 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x563af7eee5e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x563af7eee5e0 pid: 4322 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4322)
+spawned uWSGI worker 1 (pid: 4324, cores: 1)
+spawned uWSGI worker 2 (pid: 4325, cores: 1)
+spawned uWSGI worker 3 (pid: 4326, cores: 1)
+spawned uWSGI worker 4 (pid: 4327, cores: 1)
+spawned uWSGI worker 5 (pid: 4328, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:06:49 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x55c87997f500
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55c87997f500 pid: 4488 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4488)
+spawned uWSGI worker 1 (pid: 4490, cores: 1)
+spawned uWSGI worker 2 (pid: 4491, cores: 1)
+spawned uWSGI worker 3 (pid: 4492, cores: 1)
+spawned uWSGI worker 4 (pid: 4493, cores: 1)
+spawned uWSGI worker 5 (pid: 4494, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:10:05 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55726a9904c0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55726a9904c0 pid: 4564 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4564)
+spawned uWSGI worker 1 (pid: 4566, cores: 1)
+spawned uWSGI worker 2 (pid: 4567, cores: 1)
+spawned uWSGI worker 3 (pid: 4568, cores: 1)
+spawned uWSGI worker 4 (pid: 4569, cores: 1)
+spawned uWSGI worker 5 (pid: 4570, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:16:38 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x5607a99de500
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5607a99de500 pid: 4726 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4726)
+spawned uWSGI worker 1 (pid: 4728, cores: 1)
+spawned uWSGI worker 2 (pid: 4729, cores: 1)
+spawned uWSGI worker 3 (pid: 4730, cores: 1)
+spawned uWSGI worker 4 (pid: 4731, cores: 1)
+spawned uWSGI worker 5 (pid: 4732, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:19:31 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x560ed4fb1500
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x560ed4fb1500 pid: 4775 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4775)
+spawned uWSGI worker 1 (pid: 4777, cores: 1)
+spawned uWSGI worker 2 (pid: 4778, cores: 1)
+spawned uWSGI worker 3 (pid: 4779, cores: 1)
+spawned uWSGI worker 4 (pid: 4780, cores: 1)
+spawned uWSGI worker 5 (pid: 4781, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:20:02 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x5572c1220500
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5572c1220500 pid: 4795 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4795)
+spawned uWSGI worker 1 (pid: 4797, cores: 1)
+spawned uWSGI worker 2 (pid: 4798, cores: 1)
+spawned uWSGI worker 3 (pid: 4799, cores: 1)
+spawned uWSGI worker 4 (pid: 4800, cores: 1)
+spawned uWSGI worker 5 (pid: 4801, cores: 1)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:21:19 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x564734bac920
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x564734bac920 pid: 4827 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4827)
+spawned uWSGI worker 1 (pid: 4829, cores: 1)
+spawned uWSGI worker 2 (pid: 4830, cores: 1)
+spawned uWSGI worker 3 (pid: 4831, cores: 1)
+spawned uWSGI worker 4 (pid: 4832, cores: 1)
+spawned uWSGI worker 5 (pid: 4833, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:21:55 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x562aa873e840
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x562aa873e840 pid: 4839 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4839)
+spawned uWSGI worker 1 (pid: 4841, cores: 1)
+spawned uWSGI worker 2 (pid: 4842, cores: 1)
+spawned uWSGI worker 3 (pid: 4843, cores: 1)
+spawned uWSGI worker 4 (pid: 4844, cores: 1)
+spawned uWSGI worker 5 (pid: 4845, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 0 seconds
+worker 2 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 0 seconds
+worker 5 buried after 0 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:22:44 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x55db6eb59840
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55db6eb59840 pid: 4851 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4851)
+spawned uWSGI worker 1 (pid: 4853, cores: 1)
+spawned uWSGI worker 2 (pid: 4854, cores: 1)
+spawned uWSGI worker 3 (pid: 4855, cores: 1)
+spawned uWSGI worker 4 (pid: 4856, cores: 1)
+spawned uWSGI worker 5 (pid: 4857, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket ubuntu_webserver_flask.sock removed.
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1662]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Apr  9 11:36:05 2021] ***
+compiled with version: 9.3.0 on 09 April 2021 00:33:58
+os: Linux-5.8.0-48-generic #54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021
+nodename: flavio-RF511-RF411-RF711
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/flavio/Flask/ubuntu_webserver_flask
+detected binary path: /home/flavio/Flask/venv/bin/uwsgi
+your processes number limit is 23167
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uwsgi socket 0 bound to UNIX address ubuntu_webserver_flask.sock fd 3
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x560936c48500
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x560936c48500 pid: 5039 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5039)
+spawned uWSGI worker 1 (pid: 5041, cores: 1)
+spawned uWSGI worker 2 (pid: 5042, cores: 1)
+spawned uWSGI worker 3 (pid: 5043, cores: 1)
+spawned uWSGI worker 4 (pid: 5044, cores: 1)
+spawned uWSGI worker 5 (pid: 5045, cores: 1)
+[pid: 5041|app: 0|req: 1/1] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:54:24 2021] GET / => generated 13 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5042|app: 0|req: 1/2] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:22 2021] GET / => generated 13 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5043|app: 0|req: 1/3] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:22 2021] GET / => generated 13 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5044|app: 0|req: 1/4] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:22 2021] GET / => generated 13 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5045|app: 0|req: 1/5] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:23 2021] GET / => generated 13 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5041|app: 0|req: 2/6] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:23 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5042|app: 0|req: 2/7] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:23 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5043|app: 0|req: 2/8] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:23 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5044|app: 0|req: 2/9] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:23 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5045|app: 0|req: 2/10] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:24 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5041|app: 0|req: 3/11] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:24 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5042|app: 0|req: 3/12] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:24 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5043|app: 0|req: 3/13] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:24 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5044|app: 0|req: 3/14] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:25 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5045|app: 0|req: 3/15] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:25 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5041|app: 0|req: 4/16] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:25 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5042|app: 0|req: 4/17] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:25 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5043|app: 0|req: 4/18] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:26 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5044|app: 0|req: 4/19] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:26 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5045|app: 0|req: 4/20] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:27 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5041|app: 0|req: 5/21] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:27 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5042|app: 0|req: 5/22] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:27 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5043|app: 0|req: 5/23] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:28 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5044|app: 0|req: 5/24] 192.168.15.121 () {42 vars in 685 bytes} [Fri Apr  9 11:57:28 2021] GET / => generated 13 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5045|app: 0|req: 5/25] 192.168.15.144 () {44 vars in 876 bytes} [Fri Apr  9 12:42:04 2021] GET / => generated 13 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 5041|app: 0|req: 6/26] 192.168.15.144 () {42 vars in 760 bytes} [Fri Apr  9 12:42:05 2021] GET /favicon.ico => generated 232 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 87 bytes (1 switches on core 0)
